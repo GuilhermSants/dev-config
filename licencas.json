@@ -1,0 +1,36 @@
+{
+  "_comentario": "Maquinas autorizadas a rodar o plugin Dev. O id e o numero de serie do volume C: da maquina do usuario (ele obtem com Windows+R, cmd /k vol). Cadastrar ANTES de enviar o instalador.",
+
+  "bloqueioGeral": false,
+  "mensagemGeral": "O plugin esta em manutencao. Tente novamente mais tarde.",
+
+  "maquinas": [
+    {
+      "id": "5695-DBE0",
+      "nome": "GuilhermeDamas - maquina desenvolvedor",
+      "contato": "(00) 99999-0000",
+      "liberadoEm": "2026-08-20",
+      "ativo": true,
+      "expira": "",
+      "motivo": ""
+    },
+    {
+      "id": "9F8E-7D6C",
+      "nome": "Paulo Lollato - Caramurú Construções LTDA",
+      "contato": "(00) 99999-0000",
+      "liberadoEm": "2026-08-20",
+      "ativo": true,
+      "expira": "2026-12-31",
+      "motivo": ""
+    },
+    {
+      "id": "AAAA-BBBB",
+      "nome": "Maria - avaliacao",
+      "contato": "",
+      "liberadoEm": "2026-07-01",
+      "ativo": false,
+      "expira": "",
+      "motivo": "Periodo de avaliacao encerrado. Fale com o suporte para renovar."
+    }
+  ]
+}
