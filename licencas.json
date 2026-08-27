@@ -16,8 +16,8 @@
       "ativo": true,
       "expira": "",
       "motivo": "",
-      "aba": "DevCaramurú",
-      "ferramentas": ["eixos", "subdivides", "muros"]
+      "aba": "Development",
+      "ferramentas": ["*"]
     },
     {
       "id": "5669-EBDA",
