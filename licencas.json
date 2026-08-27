@@ -16,8 +16,8 @@
       "ativo": true,
       "expira": "",
       "motivo": "",
-      "aba": "Development",
-      "ferramentas": ["*"]
+      "aba": "DevelopmentADM",
+      "ferramentas": ["eixos", "subdivides", "armadura"]
     },
     {
       "id": "5669-EBDA",
