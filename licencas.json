@@ -1,7 +1,7 @@
 {
   "_comentario": "Maquinas autorizadas. id = numero de serie do volume C: (Windows+R, cmd /k vol). Campos por maquina: aba (nome da aba na Ribbon) e ferramentas (quais botoes aparecem).",
 
-  "_ferramentasDisponiveis": ["eixos", "subdivides", "muros", "armadura"],
+  "_ferramentasDisponiveis": ["eixos", "subdivides", "muros", "armadura", "vergalhoes"],
 
   "bloqueioGeral": false,
   "mensagemGeral": "O plugin esta em manutencao. Tente novamente mais tarde.",
@@ -28,7 +28,7 @@
       "expira": "",
       "motivo": "",
       "aba": "DevCaramurú",
-      "ferramentas": ["*"]
+      "ferramentas": ["muros", "vergalhoes"]
     },
     {
       "id": "AAAA-BBBB",
