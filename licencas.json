@@ -20,6 +20,17 @@
       "ferramentas": ["*"]
     },
     {
+      "id": "7838-5EC3",
+      "nome": "GD",
+      "contato": "(00) 99999-0000",
+      "liberadoEm": "2026-08-20",
+      "ativo": true,
+      "expira": "",
+      "motivo": "",
+      "aba": "GDDevelopment",
+      "ferramentas": ["*"]
+    },
+    {
       "id": "5669-EBDA",
       "nome": "Paulo Lollato - Caramurú Construções LTDA",
       "contato": "(00) 99999-0000",
