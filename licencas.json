@@ -16,8 +16,8 @@
       "ativo": true,
       "expira": "",
       "motivo": "",
-      "aba": "DevCaramurú",
-      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes"]
+      "aba": "GDDevelopment",
+      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "edificio"]
     },
     {
       "id": "7838-5EC3",
