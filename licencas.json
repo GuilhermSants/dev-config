@@ -39,7 +39,7 @@
       "expira": "",
       "motivo": "",
       "aba": "DevCaramurú",
-      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex"]
+      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex", "joinflex"]
     },
     {
       "id": "22EA-BAB2",
@@ -50,7 +50,7 @@
       "expira": "",
       "motivo": "",
       "aba": "DevCaramurú",
-      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex"]
+      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex", "joinflex"]
     },
     {
       "id": "B6F2-9706",
@@ -61,7 +61,7 @@
       "expira": "",
       "motivo": "",
       "aba": "DevCaramurú",
-      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex"]
+      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex", "joinflex"]
     },
     {
       "id": "BE80-0F5A",
@@ -72,7 +72,7 @@
       "expira": "",
       "motivo": "",
       "aba": "DevCaramurú",
-      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex"]
+      "ferramentas": ["eixos", "subdivides", "muros", "armadura", "vergalhoes", "documentacaoestaca", "espacadores", "lineflex", "joinflex"]
     },
     {
       "id": "XXXX-XXXX",
